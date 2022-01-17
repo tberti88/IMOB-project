@@ -1,4 +1,4 @@
-<h1>Blog</h1> 
+<h1>Site 'AirbnB'</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/pypi/pyversions/Django"/>
